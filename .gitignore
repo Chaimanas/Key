@@ -1,0 +1,13 @@
+﻿env/
+.venv/
+__pycache__/
+*.pyc
+runs/
+data/
+datasets/
+*.db
+
+# Unneeded local tools and base model
+ffmpeg/
+ffmpeg.zip
+yolo11n.pt
